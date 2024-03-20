@@ -1,0 +1,24 @@
+Test uses pseudo-random number generator with seed of 1024.
+coin_flip() with input 10 incorrectly returned:
+Heads
+Heads
+Heads
+Heads
+Heads
+Heads
+Heads
+Heads
+Heads
+Heads
+Test uses pseudo-random number generator with seed of 1024.
+coin_flip() with input 10 correctly returned:
+Tails
+Heads
+Heads
+Heads
+Tails
+Heads
+Heads
+Heads
+Heads
+Tails

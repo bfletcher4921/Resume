@@ -1,0 +1,23 @@
+#car prices
+def main():
+    lamborghinini_veno = 3900000
+    bugati_veyron = 2400000
+    aston_martin = 1850000
+    prices = [lamborghinini_veno, bugati_veyron, aston_martin]
+    print (f'lamborghinini_veno: {prices [0]} dollars')
+    print (f'bugati_veyron: {prices [1]} dollars')
+    print (f'aston_martin: {prices [2]} dollars')
+    
+    my_str = [1,2,3,4,5,]
+    my_var = my_str[0]
+    my_var2 = len(my_str)
+    my_var3 = sum(my_str)
+    print(my_var)
+    print(my_var2)
+    print(my_var3)
+    my_list = ['Gus', 'Bob', 'Zoe']
+    my_list.append ('Carla')
+    my_list.pop (1)
+    my_list.remove ('Gus')
+    print (my_list)
+main()

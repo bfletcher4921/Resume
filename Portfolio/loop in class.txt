@@ -1,0 +1,7 @@
+my_list = ["one", 2, 3,4, "asdf", 23, 3*3]
+
+i = 0
+while i < len(my_list):
+     print(my_list[i])
+     i += 1
+     

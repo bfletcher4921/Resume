@@ -1,0 +1,13 @@
+
+
+numbers = [99, 88, 77, 57, 89, 66]
+i = 0
+sum = 0
+while i != 6:
+    print(numbers[i])
+    sum = sum + numbers[i]
+    print("sum is", sum)
+    i += 1
+    print("i is", i)
+    
+print("done", sum / i)
