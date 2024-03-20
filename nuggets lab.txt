@@ -1,0 +1,14 @@
+#hard coded dict
+denver_nuggets = {27:'Jamal Murray', 15:'Nikola Jokic', 50:'Aaron Gordon', 1:'Michael Porter Jr.', 5:'Kentavious Caldwell-Pope'}
+#input jersy and name
+
+new_number = int(input())
+new_name = input()
+
+#add one more player to the nuggets
+denver_nuggets [new_number] = new_name
+
+#input number to look up
+look_up = int(input())
+#output: player "wears" number
+print(f'{denver_nuggets[look_up]} wears {look_up}')

@@ -1,0 +1,30 @@
+
+
+#write a script that does....
+
+#get age as input
+age = int(input("Enter age: "))
+#classify 
+adj = "typical"
+if age < 20:
+    adj = "young"
+elif age > 30:
+    adj = "mature"
+
+#output classification
+print(f'At {age:d} you appear to be a {adj:s} college student')
+
+#write a program
+def main():
+#get age as input
+    age = int(input("Enter age: "))
+#classify 
+    adj = "typical"
+    if age < 20:
+        adj = "young"
+    elif age > 30:
+        adj = "mature"
+
+#output classification
+    print(f'At {age:d} you appear to be a {adj:s} college student')
+ main()
