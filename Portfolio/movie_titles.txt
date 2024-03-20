@@ -22,7 +22,7 @@ All the King's Men
 All the President's Men
 Amadeus
 Amarcord
-Amélie
+AmÃ©lie
 America America
 The American Friend
 American Graffiti
@@ -143,14 +143,14 @@ Cat on a Hot Tin Roof
 Catch-22
 Cavalcade
 The Celebration
-La Cérémonie
+La CÃ©rÃ©monie
 Chan Is Missing
 Chariots of Fire
 Charley Varrick
 Chicago
 Chicken Run
 Chinatown
-Chloë in the Afternoon
+ChloÃ« in the Afternoon
 The Cider House Rules
 The Citadel
 Citizen Kane
@@ -272,7 +272,7 @@ Fat City
 Fatal Attraction
 Father of the Bride
 Fellini Satyricon
-La Femme Infidèle
+La Femme InfidÃ¨le
 La Femme Nikita
 The Fisher King
 Fist in His Pocket
@@ -472,7 +472,7 @@ The Lives of a Bengal Lancer
 Living in Oblivion
 Local Hero
 Lola
-Lola Montès
+Lola MontÃ¨s
 Lolita
 Lone Star
 The Loneliness of the Long Distance Runner
@@ -530,7 +530,7 @@ Melvin and Howard
 Memories of Underdevelopment
 The Memory of Justice
 The Men
-Ménage
+MÃ©nage
 Metropolitan
 Midnight
 Midnight Cowboy
@@ -547,7 +547,7 @@ Mr. Hulot's Holiday
 Mister Roberts
 Mr. Smith Goes to Washington
 Mrs. Miniver
-Mon Oncle d'Amérique
+Mon Oncle d'AmÃ©rique
 Mona Lisa
 Monsters Inc.
 Moonlighting
@@ -797,7 +797,7 @@ Stevie
 Stolen Kisses
 Stop Making Sense
 Stormy Monday
-The Story of Adèle H.
+The Story of AdÃ¨le H.
 The Story of G.I. Joe
 The Story of Qiu Ju
 Story of Women
@@ -905,7 +905,7 @@ Vanya on 42nd Street
 The Verdict
 Vertigo
 Videodrome
-Violette Nozière
+Violette NoziÃ¨re
 Viridiana
 Viva Zapata!
 The Voice of the Turtle
@@ -959,6 +959,6 @@ You Can Count On Me
 You Only Live Once
 Young Frankenstein
 Young Mr. Lincoln
-Y Tu Mamá También
+Y Tu MamÃ¡ TambiÃ©n
 Z
 Zero for Conduct
