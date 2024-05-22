@@ -24,7 +24,7 @@
 * Current: Data Science Certificate from University of North Alabama, CIS 225 Intro to Object Oriented Programming (python) “A”, CIS 366 Database Development and Management: “A”, CIS 366 Database Development and Management  
 * B.S. in Organizational Management (Business), December 2008 from Tusculum College, TN  
 * A.S in Business, December 2006 from Walters State Community College, TN “Cum Laude”  
-### Experience
+### Experience  
 #### Executive Board of NASOA AHSAA Assigning Officer, AL 2024, Executive Board of SASOA AHSAA Assigning Officer, AL 2016
 * Ensure over 70 schools with a total of 232 programs, have their soccer matches assigned referees  
 * Manage scheduling for over 105 soccer referees by analyzing resources available, game count (by school), match difficulty, match priority, referee ability, and overall referee game load (minimize burnout and injury)  
@@ -40,11 +40,11 @@
 * 2024 Stats  
     * 2,012 matches assigned  
     * 4,260 personnel positions assigned on the matches  
-### Hobbies
+### Hobbies  
 * NCAA/High School/ U.S. Soccer Referee since 2008
 * Middle distance running (13.1 miles) with full marathon aspirations
 * Lifelong learning: science based topics and other languages
-* Fostering dogs for various dog rescues, but mainly bassets and beagles
+* Fostering dogs for various dog rescues, but mainly bassets and beagles  
 ### Website
 [Brandi Fletcher Resume](https://bfletcher4921.wixsite.com/resume)  
 ### Tableau Public  
