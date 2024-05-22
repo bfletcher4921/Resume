@@ -1,4 +1,4 @@
---- layout: default 
+ 
 ---
 # Brandi Fletcher  
 ## Data Analyst  
