@@ -54,4 +54,4 @@
 ### Tableau Public  
 [Brandi Fletcher's Tableau Public](https://public.tableau.com/app/profile/brandi.fletcher2279/vizzes)
 ### Download Resume
-[Brandi Fletcher's Resume in PDF format](https://github.com/bfletcher4921/Resume/blob/3845525eedf0987f6fb69b3a548e3d850c8c3920/bfletcher%202024%20cv.pdf)
+[Brandi Fletcher's Resume in PDF format](https://8ed1823f-3ff6-4b3f-a2dd-490d39a72f9d.filesusr.com/ugd/62a588_3f15687edfc94cc48ca72a6529177373.pdf)
