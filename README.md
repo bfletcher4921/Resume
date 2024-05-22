@@ -1,5 +1,3 @@
- 
----
 # Brandi Fletcher  
 ## Data Analyst  
 
